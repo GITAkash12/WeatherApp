@@ -1,7 +1,7 @@
 # WeatherApp
 Stay ahead of the weather with our intuitive app. Search by city, get current conditions, and a forecast for the days ahead. Enjoy seamless performance with loading indicators and error handling.
 
-#Description
+# Description
 Sure, here's a more detailed breakdown of the key features:
 
 1. **City-Based Weather Search:** Users can search for weather forecasts by entering the name of the city they're interested in. This feature allows users to quickly access weather information for any location worldwide.
@@ -18,11 +18,11 @@ Sure, here's a more detailed breakdown of the key features:
 
 7. **Global Coverage:** With access to weather data for cities worldwide, the app offers global coverage, allowing users to check weather forecasts for any location they're interested in, whether it's their hometown or a destination they're planning to visit.
 
-#Screenshot
+# Screenshot
 ![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/SCREENSHOT.png)
 
 
-## Setup
+# Setup
 
 To get started with this Weather App, follow these steps:
 Clone the repository
