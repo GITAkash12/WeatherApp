@@ -18,7 +18,7 @@ Sure, here's a more detailed breakdown of the key features:
 
 7. **Global Coverage:** With access to weather data for cities worldwide, the app offers global coverage, allowing users to check weather forecasts for any location they're interested in, whether it's their hometown or a destination they're planning to visit.
 
-# Screenshot
+# ScreenShot
 ![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/SCREENSHOT.png)
 
 # Setup
