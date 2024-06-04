@@ -21,13 +21,17 @@ Sure, here's a more detailed breakdown of the key features:
 # Screenshot
 ![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/SCREENSHOT.png)
 
-
 # Setup
 
 To get started with this Weather App, follow these steps:
-Clone the repository
-Navigate to the project directory:----cd WeatherApp
-Install dependencies:----npm install
-Start the development server:-----npm start
 
-This will start the development server and open the app in your default web browser.
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Start the development server
+
+
+
+
+
+
