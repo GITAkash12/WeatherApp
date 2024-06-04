@@ -18,3 +18,16 @@ Sure, here's a more detailed breakdown of the key features:
 
 7. **Global Coverage:** With access to weather data for cities worldwide, the app offers global coverage, allowing users to check weather forecasts for any location they're interested in, whether it's their hometown or a destination they're planning to visit.
 
+#Screenshot
+![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/SCREENSHOT.png)
+
+
+## Setup
+
+To get started with this Weather App, follow these steps:
+Clone the repository
+Navigate to the project directory:----cd WeatherApp
+Install dependencies:----npm install
+Start the development server:-----npm start
+
+This will start the development server and open the app in your default web browser.
