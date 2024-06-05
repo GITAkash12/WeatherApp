@@ -13,11 +13,11 @@ Certainly! Here are the key features of your weather app:
 6. **Error Handling:** Robust error handling to handle any issues gracefully.
 7. **Global Coverage:** Access weather forecasts for cities worldwide.
 
-8. # ScreenShot
+ # ScreenShot
 
-9. ![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/src/images/SCREENSHOT.png)
+ ![Screenshot]https://github.com/GITAkash12/WeatherApp/blob/main/src/images/SCREENSHOT.png
 
-10. # Setup
+ # Setup
 
 To get started with this Weather App, follow these steps:
 1. Clone the repository
