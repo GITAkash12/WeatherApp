@@ -15,7 +15,8 @@ Certainly! Here are the key features of your weather app:
 
  # ScreenShot
 
- ![Screenshot]https://github.com/GITAkash12/WeatherApp/blob/main/src/images/SCREENSHOT.png
+![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/src/images/SCREENSHOT.png)
+
 
  # Setup
 
