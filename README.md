@@ -15,4 +15,15 @@ Certainly! Here are the key features of your weather app:
 
 8. # ScreenShot
 
+9. ![Screenshot](https://github.com/GITAkash12/WeatherApp/blob/main/src/images/SCREENSHOT.png)
+
+10. # Setup
+
+To get started with this Weather App, follow these steps:
+1. Clone the repository
+2. Navigate to the project directory:----cd WeatherApp
+3. Install dependencies:----npm install
+4. write yout api key in apiKeys.js
+3. Start the development server:-----npm start
+
   
